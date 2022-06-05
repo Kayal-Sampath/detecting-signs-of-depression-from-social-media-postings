@@ -1,6 +1,6 @@
 # Detecting-signs-of-depression-from-social-media-postings
 
-If you are using this data set, **Cite the below paper**:
+If you are using this data set, **Cite the below papers**:
 
 ```
 @article{kayalvizhi2022data,
