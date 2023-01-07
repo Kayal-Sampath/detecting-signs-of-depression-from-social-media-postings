@@ -3,11 +3,20 @@
 If you are using this data set, **Cite the below papers**:
 
 ```
-@article{kayalvizhi2022data,
-  title={Data set creation and empirical analysis for detecting signs of depression from social media postings},
-  author={Kayalvizhi, S and Thenmozhi, D},
-  journal={arXiv preprint arXiv:2202.03047},
-  year={2022}
+@InProceedings{10.1007/978-3-031-16364-7_11,
+author=" Kayalvizhi, Sampath
+and Thenmozhi, Durairaj",
+editor="Kalinathan, Lekshmi
+and R., Priyadharsini
+and Kanmani, Madheswari
+and S., Manisha",
+title="Data Set Creation and Empirical Analysis for Detecting Signs of Depression from Social Media Postings",
+booktitle="Computational Intelligence in Data Science",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="136--151",
+isbn="978-3-031-16364-7"
 }
 ```
 ```
